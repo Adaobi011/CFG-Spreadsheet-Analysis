@@ -17,7 +17,7 @@ print(total_month)
 
 # data visualisation
 
-import matplotlib.pyplot as plt
+
 
 
 

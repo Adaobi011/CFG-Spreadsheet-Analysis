@@ -3,7 +3,11 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$/../sales.csv">
+=======
+        <entry key="/sales.csv">
+>>>>>>> 383a18d (Initial commit)
           <value>
             <Attribute>
               <option name="separator" value="," />
