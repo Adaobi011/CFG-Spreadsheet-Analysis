@@ -1,3 +1,5 @@
+import pandas as pd
+
 #reading in csv file
 
 df = pd.read_csv('sales.csv')
